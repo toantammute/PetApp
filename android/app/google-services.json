@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1070717152929",
+    "project_id": "petapp-a9875",
+    "storage_bucket": "petapp-a9875.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070717152929:android:7fdc695a432e0262bc4ae0",
+        "android_client_info": {
+          "package_name": "com.petapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuCAMsikpELI3nhZqfkAjzn_DgWWKWe-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
